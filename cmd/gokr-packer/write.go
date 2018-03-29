@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gokrazy/internal/fat"
+	"github.com/tetsu-koba/internal/fat"
 )
 
 var (

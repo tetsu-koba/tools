@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gokrazy/internal/updater"
+	"github.com/tetsu-koba/internal/updater"
 
 	// Imported so that the go tool will download the repositories
 	_ "github.com/gokrazy/firmware"

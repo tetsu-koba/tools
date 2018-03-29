@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/gokrazy/internal/updater"
+	"github.com/tetsu-koba/internal/updater"
 )
 
 var (
